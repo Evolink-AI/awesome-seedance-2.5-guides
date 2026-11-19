@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-guide"><img src="assets/banner.png" alt="Seedance 2.5 Early Access guide" width="100%"></a>
+<a href="https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-guides&utm_content=readme_banner"><img src="assets/banner.png" alt="Seedance 2.5 Early Access guide" width="100%"></a>
 
 # Guía oficial de Seedance 2.5
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Get Seedance 2.5 Early Access](https://img.shields.io/badge/Get_Seedance_2.5-Early_Access-black)](https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guide)
+[![Get Seedance 2.5 Early Access](https://img.shields.io/badge/Get_Seedance_2.5-Early_Access-black)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guides&utm_content=model_try)
 [![Official Guide](https://img.shields.io/badge/Official_Guide-36_Media_Assets-7C3AED)](data/seedance-2-5-manifest.json)
-[![API Key](https://img.shields.io/badge/API_Key-EvoLink-orange)](https://evolink.ai/signup?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guide)
+[![API Key via the model page](https://img.shields.io/badge/API_Key-Model_Page-orange)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guides&utm_content=api_key)
 
 [English](README.md) · **Español** · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Русский](README.ru.md)
 
@@ -19,7 +19,7 @@ Seedance 2.5 early access ya está abierto mediante EvoLink. Este repositorio co
 
 La guía cubre 36 recursos oficiales: demos de lanzamiento, showcases, control narrativo, expresión multilingüe y edición controlable. Todos son casos oficiales, por eso no añadimos autor ni línea de fuente por caso.
 
-[Get Seedance 2.5 Early Access](https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide) · [Obtener API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide) · [Ejemplos actuales de API Seedance](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
+[Get Seedance 2.5 Early Access](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guides&utm_content=intro_model) · [Obtener API key (desde la página del modelo)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guides&utm_content=intro_api_key) · [Ejemplos actuales de API Seedance](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
 
 Si buscas Seedance 2, la guía original se conserva aquí: [Guía original de Seedance 2](seedance-2-guide/README.es.md) · [Índice de 55 casos](use-cases/README.md).
 
@@ -968,6 +968,6 @@ Los efectos especiales de la IA solo mejoran el entorno y la textura: ropa arras
 
 EvoLink mantiene este repositorio como guía pública para Seedance 2.5 early access.
 
-- Official early access: [Get Seedance 2.5 Early Access](https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide)
-- Current API key path: [EvoLink signup](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide)
+- Official early access: [Get Seedance 2.5 Early Access](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.5-guides&utm_content=footer_model)
+- Current API key path: [EvoLink signup (desde la página del modelo)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.5-guides&utm_content=footer_api_key)
 - Current API examples: [Seedance 2.5 Gateway Service](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
