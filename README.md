@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-guide"><img src="assets/New-banner.png" alt="Seedance 2.5 guide" width="100%"></a>
+<a href="https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-guides&utm_content=readme_banner"><img src="assets/New-banner.png" alt="Seedance 2.5 guide" width="100%"></a>
 
 # Seedance 2.5 Official Guide
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Get Seedance 2.5 API](https://img.shields.io/badge/Get_Seedance_2.5-API-black)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guide)
+[![Get Seedance 2.5 API](https://img.shields.io/badge/Get_Seedance_2.5-API-black)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guides&utm_content=model_try)
 [![Official Guide](https://img.shields.io/badge/Official_Guide-36_Media_Assets-7C3AED)](data/seedance-2-5-manifest.json)
-[![API Key](https://img.shields.io/badge/API_Key-EvoLink-orange)](https://evolink.ai/signup?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guide)
+[![API Key via the model page](https://img.shields.io/badge/API_Key-Model_Page-orange)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guides&utm_content=api_key)
 
 **English** · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Русский](README.ru.md)
 
@@ -19,7 +19,7 @@ Seedance 2.5 is now open through EvoLink. This repository turns the official See
 
 The guide covers 36 official media assets across launch demos, showcase works, narrative control, multilingual expression, and controllable editing. The examples are official cases, so individual case blocks do not include creator attribution or source lines.
 
-[Get Seedance 2.5 API](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide) · [Get API Key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide) · [Current Seedance API Examples](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
+[Get Seedance 2.5 API](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guides&utm_content=intro_model) · [Get API Key (via the model page)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guides&utm_content=intro_api_key) · [Current Seedance API Examples](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
 
 Looking for Seedance 2? The original guide is preserved here: [Original Seedance 2 Guide](seedance-2-guide/README.md) · [55-case index](use-cases/README.md).
 
@@ -968,6 +968,6 @@ AI special effects only enhance the environment and texture: wind blown clothes,
 
 This repository is maintained by EvoLink as a public guide for Seedance 2.5 .
 
-- Official Seedance 2.5 API: [Get Seedance 2.5 API](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide)
-- Current API key path: [EvoLink signup](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide)
+- Official Seedance 2.5 API: [Get Seedance 2.5 API](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.5-guides&utm_content=footer_model)
+- Current API key path: [EvoLink signup (via the model page)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.5-guides&utm_content=footer_api_key)
 - Current API examples: [Seedance 2.5 Gateway Service](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)

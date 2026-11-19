@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-guide"><img src="assets/banner.png" alt="Seedance 2.5 Early Access guide" width="100%"></a>
+<a href="https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-guides&utm_content=readme_banner"><img src="assets/banner.png" alt="Seedance 2.5 Early Access guide" width="100%"></a>
 
 # Seedance 2.5 공식 가이드
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Get Seedance 2.5 Early Access](https://img.shields.io/badge/Get_Seedance_2.5-Early_Access-black)](https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guide)
+[![Get Seedance 2.5 Early Access](https://img.shields.io/badge/Get_Seedance_2.5-Early_Access-black)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guides&utm_content=model_try)
 [![Official Guide](https://img.shields.io/badge/Official_Guide-36_Media_Assets-7C3AED)](data/seedance-2-5-manifest.json)
-[![API Key](https://img.shields.io/badge/API_Key-EvoLink-orange)](https://evolink.ai/signup?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guide)
+[![API Key via the model page](https://img.shields.io/badge/API_Key-Model_Page-orange)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-guides&utm_content=api_key)
 
 [English](README.md) · [Español](README.es.md) · [Português](README.pt.md) · [日本語](README.ja.md) · **한국어** · [Deutsch](README.de.md) · [Français](README.fr.md) · [Türkçe](README.tr.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Русский](README.ru.md)
 
@@ -19,7 +19,7 @@ Seedance 2.5 early access는 EvoLink를 통해 열려 있습니다. 이 저장�
 
 가이드는 출시 데모, 쇼케이스, 내러티브 제어, 다국어 표현, 제어 가능한 편집에 걸친 36개의 공식 미디어 에셋을 다룹니다. 모두 공식 사례이므로 개별 케이스에는 작성자나 출처 라인을 넣지 않습니다.
 
-[Get Seedance 2.5 Early Access](https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide) · [API 키 받기](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide) · [현재 Seedance API 예제](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
+[Get Seedance 2.5 Early Access](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guides&utm_content=intro_model) · [API 키 받기 (모델 페이지에서)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guides&utm_content=intro_api_key) · [현재 Seedance API 예제](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
 
 Seedance 2를 찾고 있다면 원본 guide는 여기에 그대로 보존되어 있습니다: [원본 Seedance 2 Guide](seedance-2-guide/README.ko.md) · [55개 case index](use-cases/README.md).
 
@@ -974,6 +974,6 @@ AI 특수 효과는 바람에 날리는 옷, 옅은 안개, 접점의 소량의 
 
 이 저장소는 Seedance 2.5 early access 공개 가이드로 EvoLink가 유지합니다.
 
-- Official early access: [Get Seedance 2.5 Early Access](https://evolink.ai/seedream-5-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide)
-- Current API key path: [EvoLink signup](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-guide)
+- Official early access: [Get Seedance 2.5 Early Access](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.5-guides&utm_content=footer_model)
+- Current API key path: [EvoLink signup (모델 페이지에서)](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.5-guides&utm_content=footer_api_key)
 - Current API examples: [Seedance 2.5 Gateway Service](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
